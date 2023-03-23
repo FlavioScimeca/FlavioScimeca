@@ -1,4 +1,7 @@
-## HI I am Flavio Scimeca  a Junior Web Develoeper 👋
+## Hi I am Flavio Scimeca  a Junior Web Develoeper 👋
+
+![Flavio-photo](https://www.corriere.it/methode_image/2021/02/13/Spettacoli/Foto%20Spettacoli%20-%20Trattate/rsz-usatsi-14683072-kcwD-U32401100007099YTC-656x492@Corriere-Web-Sezioni.jpg)
+
 
 ### My Skills & Technologies
 
