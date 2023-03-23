@@ -11,6 +11,8 @@
 - Next.js   
 - Sanity.io    
 
+<hr>
+
 ### Coming soon
 - Angular   
 - TypeScript  
