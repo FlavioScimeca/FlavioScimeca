@@ -22,6 +22,6 @@
 - TypeScript  
 - Agile
 
-<a href="mailto:flavioscimeca3@gmail.com">Email</a>
+<a href="mailto:flavioscimeca3@gmail.com">Email</a>    
 [Linkedin](https://www.linkedin.com/in/flavioscimeca1/)  
 [Portfolio](https://portfolio-artc0ra8j-flavioscimeca.vercel.app/)
