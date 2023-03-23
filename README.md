@@ -1,16 +1,21 @@
-### Hi there 👋
+## HI I am Flavio Scimeca  a Junior Web Develoeper 👋
 
-<!--
-**FlavioScimeca/FlavioScimeca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Skills & Technologies
 
-Here are some ideas to get you started:
+- HTML/CSS  
+- JavaScript  
+- PHP  
+- Laravel   
+- MySQL   
+- React   
+- Next.js   
+- Sanity.io    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Coming soon
+- Angular   
+- TypeScript  
+- Agile
+
+
+[Linkedin](https://www.linkedin.com/in/flavioscimeca1/)  
+[Portfolio](https://portfolio-artc0ra8j-flavioscimeca.vercel.app/)
